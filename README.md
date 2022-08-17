@@ -33,7 +33,7 @@ Users should be able to:
 
 #### mobile
 
-![screenshot-mobile](./screenshot/product-preview-card-component-picture-desktop.png)
+![screenshot-mobile](./screenshot/product-preview-card-component-picture-mobile.png)
 
 ### Links
 
