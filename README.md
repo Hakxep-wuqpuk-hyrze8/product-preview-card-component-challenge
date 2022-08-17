@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hakxep-wuqpuk-hyrze8/product-preview-card-component-challenge)
+- Solution URL: [solution URL here](https://github.com/Hakxep-wuqpuk-hyrze8/product-preview-card-component-challenge)
 - Live Site URL: [Add live site URL here]()
 
 ## My process
